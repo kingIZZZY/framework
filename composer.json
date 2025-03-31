@@ -29,13 +29,13 @@
         "ext-json": "*",
         "ext-pdo": "*",
         "composer-runtime-api": "^2.2",
-        "hyperf/database-sqlite": "~3.1.0",
-        "hyperf/memory": "~3.1.0",
-        "hyperf/process": "~3.1.0",
-        "hyperf/signal": "~3.1.0",
-        "hyperf/translation": "~3.1.0",
-        "hyperf/validation": "~3.1.0",
-        "hyperf/view-engine": "~3.1.0",
+        "hyperf/database-sqlite": "~3.2.0",
+        "hyperf/memory": "~3.2.0",
+        "hyperf/process": "~3.2.0",
+        "hyperf/signal": "~3.2.0",
+        "hyperf/translation": "~3.2.0",
+        "hyperf/validation": "~3.2.0",
+        "hyperf/view-engine": "~3.2.0",
         "league/flysystem": "^3.25.1",
         "hypervel/auth": "^0.1.2",
         "hypervel/broadcasting": "^0.1.2",
@@ -68,7 +68,7 @@
         "hypervel/support": "^0.1.2",
         "guzzlehttp/guzzle": "^7.8.2",
         "nunomaduro/termwind": "^2.0",
-        "friendsofhyperf/command-signals": "~3.1.0"
+        "friendsofhyperf/command-signals": "~3.2.0"
     },
     "config": {
         "sort-packages": true
