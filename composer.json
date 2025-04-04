@@ -37,34 +37,34 @@
         "hyperf/validation": "dev-3.2",
         "hyperf/view-engine": "dev-3.2",
         "league/flysystem": "^3.25.1",
-        "hypervel/auth": "dev-main"
-        "hypervel/broadcasting": "dev-main"
-        "hypervel/bus": "dev-main"
-        "hypervel/cache": "dev-main"
-        "hypervel/config": "dev-main"
-        "hypervel/console": "dev-main"
-        "hypervel/container": "dev-main"
-        "hypervel/cookie": "dev-main"
+        "hypervel/auth": "dev-main",
+        "hypervel/broadcasting": "dev-main",
+        "hypervel/bus": "dev-main",
+        "hypervel/cache": "dev-main",
+        "hypervel/config": "dev-main",
+        "hypervel/console": "dev-main",
+        "hypervel/container": "dev-main",
+        "hypervel/cookie": "dev-main",
         "hypervel/core": "dev-main",
-        "hypervel/coroutine": "dev-main"
-        "hypervel/dispatcher": "dev-main"
-        "hypervel/encryption": "dev-main"
-        "hypervel/event": "dev-main"
-        "hypervel/filesystem": "dev-main"
-        "hypervel/foundation": "dev-main"
-        "hypervel/hashing": "dev-main"
-        "hypervel/http": "dev-main"
-        "hypervel/http-client": "dev-main"
-        "hypervel/jwt": "dev-main"
-        "hypervel/log": "dev-main"
-        "hypervel/mail": "dev-main"
-        "hypervel/notifications": "dev-main"
-        "hypervel/object-pool": "dev-main"
-        "hypervel/process": "dev-main"
-        "hypervel/prompts": "dev-main"
-        "hypervel/queue": "dev-main"
-        "hypervel/router": "dev-main"
-        "hypervel/session": "dev-main"
+        "hypervel/coroutine": "dev-main",
+        "hypervel/dispatcher": "dev-main",
+        "hypervel/encryption": "dev-main",
+        "hypervel/event": "dev-main",
+        "hypervel/filesystem": "dev-main",
+        "hypervel/foundation": "dev-main",
+        "hypervel/hashing": "dev-main",
+        "hypervel/http": "dev-main",
+        "hypervel/http-client": "dev-main",
+        "hypervel/jwt": "dev-main",
+        "hypervel/log": "dev-main",
+        "hypervel/mail": "dev-main",
+        "hypervel/notifications": "dev-main",
+        "hypervel/object-pool": "dev-main",
+        "hypervel/process": "dev-main",
+        "hypervel/prompts": "dev-main",
+        "hypervel/queue": "dev-main",
+        "hypervel/router": "dev-main",
+        "hypervel/session": "dev-main",
         "hypervel/support": "dev-main",
         "guzzlehttp/guzzle": "^7.8.2",
         "nunomaduro/termwind": "^2.0",
