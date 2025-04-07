@@ -29,46 +29,46 @@
         "ext-json": "*",
         "ext-pdo": "*",
         "composer-runtime-api": "^2.2",
-        "hyperf/database-sqlite": "~3.1.0",
-        "hyperf/memory": "~3.1.0",
-        "hyperf/process": "~3.1.0",
-        "hyperf/signal": "~3.1.0",
-        "hyperf/translation": "~3.1.0",
-        "hyperf/validation": "~3.1.0",
-        "hyperf/view-engine": "~3.1.0",
+        "hyperf/database-sqlite": "3.2.x-dev",
+        "hyperf/memory": "3.2.x-dev",
+        "hyperf/process": "3.2.x-dev",
+        "hyperf/signal": "3.2.x-dev",
+        "hyperf/translation": "3.2.x-dev",
+        "hyperf/validation": "3.2.x-dev",
+        "hyperf/view-engine": "3.2.x-dev",
         "league/flysystem": "^3.25.1",
-        "hypervel/auth": "^0.1.4",
-        "hypervel/broadcasting": "^0.1.4",
-        "hypervel/bus": "^0.1.4",
-        "hypervel/cache": "^0.1.4",
-        "hypervel/config": "^0.1.4",
-        "hypervel/console": "^0.1.4",
-        "hypervel/container": "^0.1.4",
-        "hypervel/cookie": "^0.1.4",
-        "hypervel/core": "^0.1.4",
-        "hypervel/coroutine": "^0.1.4",
-        "hypervel/dispatcher": "^0.1.4",
-        "hypervel/encryption": "^0.1.4",
-        "hypervel/event": "^0.1.4",
-        "hypervel/filesystem": "^0.1.4",
-        "hypervel/foundation": "^0.1.4",
-        "hypervel/hashing": "^0.1.4",
-        "hypervel/http": "^0.1.4",
-        "hypervel/http-client": "^0.1.4",
-        "hypervel/jwt": "^0.1.4",
-        "hypervel/log": "^0.1.4",
-        "hypervel/mail": "^0.1.4",
-        "hypervel/notifications": "^0.1.4",
-        "hypervel/object-pool": "^0.1.4",
-        "hypervel/process": "^0.1.4",
-        "hypervel/prompts": "^0.1.4",
-        "hypervel/queue": "^0.1.4",
-        "hypervel/router": "^0.1.4",
-        "hypervel/session": "^0.1.4",
-        "hypervel/support": "^0.1.4",
+        "hypervel/auth": "dev-hyperf3.2",
+        "hypervel/broadcasting": "dev-hyperf3.2",
+        "hypervel/bus": "dev-hyperf3.2",
+        "hypervel/cache": "dev-hyperf3.2",
+        "hypervel/config": "dev-hyperf3.2",
+        "hypervel/console": "dev-hyperf3.2",
+        "hypervel/container": "dev-hyperf3.2",
+        "hypervel/cookie": "dev-hyperf3.2",
+        "hypervel/core": "dev-hyperf3.2",
+        "hypervel/coroutine": "dev-hyperf3.2",
+        "hypervel/dispatcher": "dev-hyperf3.2",
+        "hypervel/encryption": "dev-hyperf3.2",
+        "hypervel/event": "dev-hyperf3.2",
+        "hypervel/filesystem": "dev-hyperf3.2",
+        "hypervel/foundation": "dev-hyperf3.2",
+        "hypervel/hashing": "dev-hyperf3.2",
+        "hypervel/http": "dev-hyperf3.2",
+        "hypervel/http-client": "dev-hyperf3.2",
+        "hypervel/jwt": "dev-hyperf3.2",
+        "hypervel/log": "dev-hyperf3.2",
+        "hypervel/mail": "dev-hyperf3.2",
+        "hypervel/notifications": "dev-hyperf3.2",
+        "hypervel/object-pool": "dev-hyperf3.2",
+        "hypervel/process": "dev-hyperf3.2",
+        "hypervel/prompts": "dev-hyperf3.2",
+        "hypervel/queue": "dev-hyperf3.2",
+        "hypervel/router": "dev-hyperf3.2",
+        "hypervel/session": "dev-hyperf3.2",
+        "hypervel/support": "dev-hyperf3.2",
         "guzzlehttp/guzzle": "^7.8.2",
         "nunomaduro/termwind": "^2.0",
-        "friendsofhyperf/command-signals": "~3.1.0"
+        "friendsofhyperf/command-signals": "3.2.x-dev"
     },
     "config": {
         "sort-packages": true
@@ -78,5 +78,123 @@
             "dev-main": "0.1-dev"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/auth"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/broadcasting"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/bus"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/cache"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/config"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/console"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/container"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/cookie"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/core"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/coroutine"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/dispatcher"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/encryption"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/event"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/filesystem"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/foundation"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/hashing"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/http"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/http-client"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/jwt"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/log"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/mail"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/notifications"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/object-pool"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/process"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/prompts"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/queue"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/router"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/session"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/kingIZZZY/support"
+        }
+    ]
 }
