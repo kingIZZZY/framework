@@ -68,7 +68,8 @@
         "hypervel/support": "^0.1.5",
         "guzzlehttp/guzzle": "^7.8.2",
         "nunomaduro/termwind": "^2.0",
-        "friendsofhyperf/command-signals": "~3.1.0"
+        "friendsofhyperf/command-signals": "~3.1.0",
+        "hypervel/laminas-mime": "^0.1.0"
     },
     "config": {
         "sort-packages": true
